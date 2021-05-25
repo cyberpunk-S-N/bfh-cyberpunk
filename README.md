@@ -1,12 +1,13 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
-#  ------------Twitter Bot
-  -------------is a twitter bot that will help you save long twitter threads for later reading. Just reply to any tweet on the thread by tagging @---------- and the bot will DM the entire thread to you. You may even add extra notes while tagging as the bot sends those to you as well.
-https://twitter.com/--------
+#  cyberpunksnTwitter Bot
+ cyberpunksn is a twitter bot that will help you save long twitter threads for later reading. Just reply to any tweet on the thread by tagging @h_shahanaz and the bot will DM the entire thread to you. You may even add extra notes while tagging as the bot sends those to you as well.
+https://twitter.com/h_shahanaz
 
 ## Team members
 1.Natha M Iqbal  https://github.com/nathamiqbal
 
-2.Shahanaz A H   
+2.Shahanaz A H  https://github.com/SHAHANAZAH
+  
 ## Team Id
 BFH/recMGHMTt71cumkWU/2021
 ## Link to product walkthrough
