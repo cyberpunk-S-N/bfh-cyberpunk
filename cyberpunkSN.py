@@ -144,6 +144,9 @@ def handle_last_seen_id():
 while True:
     try:
         handle_last_seen_id()
+    except tweepy.error.TweepError:
+        print("Tweepy error. \n")
     except tweepy.error.RateLimitError:
         print("Rate exceeded. \n")
+    
     time.sleep(15)
