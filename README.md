@@ -11,7 +11,7 @@ https://twitter.com/cyberpunksn
 ## Team Id
 BFH/recMGHMTt71cumkWU/2021
 ## Link to product walkthrough
-[link to video]
+https://www.loom.com/share/1d92ff2a63284cf1b69eaf308fb0c646
 ## How it Works ?
 The bot works by using the twitter API. Bot accesses the associated twitter account using the API credentials.
 ## Libraries used
