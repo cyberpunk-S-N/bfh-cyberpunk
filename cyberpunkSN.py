@@ -138,7 +138,7 @@ def handle_last_seen_id():
             recipient_id = mention.user.id      
             direct_message = api.send_direct_message(recipient_id, direct_message)#sending the direct message
   
-           
+                
         
 #######################################################################################################
 while True:
